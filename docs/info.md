@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-fUNCIONA
+Funciona mediante compuertas logicas nor, que solo retornan el valor de 1 cuando ambas entradas son igual a 0, luego como los nor son de 2 entradas usamos 4 y 3 and para que la unica posibilidad de que el ultimo and de 1 sea que el usuario ingrese todos 0.
 
 ## How to test
 
-Funcionando
+Apagar la entrada y apretar las veces necesarias el boton del step hasta que llegar al ultimo nor.
 
 ## External hardware
 
